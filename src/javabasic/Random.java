@@ -13,7 +13,7 @@ import java.util.List;
  * @Date 2020/1/14
  * @Version 1.0
  **/
-public class random {
+public class Random {
     public static void main(String[] args) throws IOException {
         List<Integer> list = new ArrayList<>();
         for (int i = 0; i <= 100; i++) {
