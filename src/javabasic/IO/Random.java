@@ -1,4 +1,4 @@
-package javabasic;
+package javabasic.IO;
 
 import java.io.File;
 import java.io.FileWriter;
